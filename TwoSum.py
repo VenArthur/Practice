@@ -1,5 +1,4 @@
 # SUCCESS!!!
-# nums is a list and target is an int
 def twoSum(nums, target):
     """
         :type self: is self
@@ -7,8 +6,6 @@ def twoSum(nums, target):
         :type target: int
         :rtype: List[int]
     """
-    # self.nums = nums
-    # self.target = target
 
     result = []  # result to return
     search = []   # sliced list of nums to look through
