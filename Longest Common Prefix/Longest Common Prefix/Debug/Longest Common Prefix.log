@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Dev\Longest Common Prefix\Longest Common Prefix\main.cpp(38,20): warning C4018: '<=': signed/unsigned mismatch
+D:\Dev\Longest Common Prefix\Longest Common Prefix\main.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+  Longest Common Prefix.vcxproj -> D:\Dev\Longest Common Prefix\Debug\Longest Common Prefix.exe
