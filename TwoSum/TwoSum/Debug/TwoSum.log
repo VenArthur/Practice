@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\Dev\TwoSum\TwoSum\main.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
-D:\Dev\TwoSum\TwoSum\main.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
-  TwoSum.vcxproj -> D:\Dev\TwoSum\Debug\TwoSum.exe
